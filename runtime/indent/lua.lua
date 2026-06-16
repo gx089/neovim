@@ -1,10 +1,9 @@
 -- Nvim indent file
--- Language:	    Lua script
--- Maintainer:	    NVIM Team
+-- Language:        Lua script
+-- Maintainer:      NVIM Team
 -- First Author:    github.com/gx089
--- Last Change:	2026 Jun 16
---		2026 Jun 16: gx089: Converted from lua.vim. 
---                          In favor of active treesitter highlighting, hardcoded commentstring
+-- Last Change:     2026 Jun 16
+--		            2026 Jun 16: gx089: Converted from lua.vim, In favor of active treesitter highlighting, hardcoded commentstring
 --
 -- Only load this indent file when no other was loaded.
 
